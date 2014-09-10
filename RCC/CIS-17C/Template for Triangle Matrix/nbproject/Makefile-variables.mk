@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=template_triangular_matrix
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/template_triangular_matrix
+CND_ARTIFACT_NAME_Debug=triangle_matrix
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/triangle_matrix
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=templatetriangularmatrix.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/templatetriangularmatrix.tar
+CND_PACKAGE_NAME_Debug=trianglematrix.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/trianglematrix.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=template_triangular_matrix
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/template_triangular_matrix
+CND_ARTIFACT_NAME_Release=triangle_matrix
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/triangle_matrix
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=templatetriangularmatrix.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/templatetriangularmatrix.tar
+CND_PACKAGE_NAME_Release=trianglematrix.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/trianglematrix.tar
 #
 # include compiler specific variables
 #

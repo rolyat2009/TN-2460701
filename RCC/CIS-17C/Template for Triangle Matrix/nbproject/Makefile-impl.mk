@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Template Triangular Matrix
+PROJECTNAME=Triangle Matrix
 
 # Active Configuration
 DEFAULTCONF=Debug
