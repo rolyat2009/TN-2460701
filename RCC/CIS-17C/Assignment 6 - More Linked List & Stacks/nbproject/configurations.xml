@@ -4,8 +4,11 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>Employee.h</itemPath>
-      <itemPath>LnkdLst.h</itemPath>
+      <itemPath>Circle.h</itemPath>
+      <itemPath>DoublyLinkedList.h</itemPath>
+      <itemPath>Dynamic Stack.h</itemPath>
+      <itemPath>PriorityQueue.h</itemPath>
+      <itemPath>Sorted.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -14,9 +17,7 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>main1.cpp</itemPath>
-      <itemPath>main2.cpp</itemPath>
-      <itemPath>main3.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Test Files"
@@ -34,21 +35,23 @@
   <confs>
     <conf name="Debug" type="1">
       <toolsSet>
-        <compilerSet>Cygwin_4.x|Cygwin_4.x</compilerSet>
+        <compilerSet>default</compilerSet>
         <dependencyChecking>true</dependencyChecking>
         <rebuildPropChanged>false</rebuildPropChanged>
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="Employee.h" ex="false" tool="3" flavor2="0">
+      <item path="Circle.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="LnkdLst.h" ex="false" tool="3" flavor2="0">
+      <item path="DoublyLinkedList.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="main1.cpp" ex="false" tool="1" flavor2="0">
+      <item path="Dynamic Stack.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="main2.cpp" ex="false" tool="1" flavor2="0">
+      <item path="PriorityQueue.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="main3.cpp" ex="false" tool="1" flavor2="0">
+      <item path="Sorted.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -71,15 +74,17 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="Employee.h" ex="false" tool="3" flavor2="0">
+      <item path="Circle.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="LnkdLst.h" ex="false" tool="3" flavor2="0">
+      <item path="DoublyLinkedList.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="main1.cpp" ex="false" tool="1" flavor2="0">
+      <item path="Dynamic Stack.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="main2.cpp" ex="false" tool="1" flavor2="0">
+      <item path="PriorityQueue.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="main3.cpp" ex="false" tool="1" flavor2="0">
+      <item path="Sorted.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
   </confs>
