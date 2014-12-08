@@ -1,0 +1,2256 @@
+AutoGen Definitions dummy;
+class = {
+  cp-id     = 'classcard';
+  cp-name   = 'card';
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'classcard_1a42e864c677c1f99451d3adf308535922';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'card';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+string
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'd';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/card.h';
+      sec-mem-desc-line = '7';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'classcard_1a3b7b3442aac023d3613b256c05b29eb0';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+string
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getDesc';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/card.h';
+      sec-mem-desc-line = '12';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'classcard_1a5cf12898a17ff2eda5469eaf857e286d';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'getValue';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/card.h';
+      sec-mem-desc-line = '14';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'classcard_1aaccc9279ab6da12c111d4d6f5915f29f';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '~card';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/card.h';
+      sec-mem-desc-line = '16';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'public-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'classcard_1a19812a4daafbfa06456a048352ea7810';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+string
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'desc';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/card.h';
+      sec-mem-desc-line = '5';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'classcard_1a8c8ecc859e715ee6b55bef5d692f508b';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'value';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/card.h';
+      sec-mem-desc-line = '6';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/card.h';
+  cp-fileline  = '3';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'class_system_1_1_windows_1_1_forms_1_1_form';
+  cp-name   = 'System::Windows::Forms::Form';
+  cp-ref     = {
+    ref-type = derived;
+    ref-id   = 'class_go_fish_1_1_form1';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-filename  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+  cp-fileline  = '44';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 12;
+        node-label = 'Form';
+      }; /* node */
+      node = {
+        node-id    = 13;
+        node-label = 'GoFish::Form1';
+        node-link = {
+          node-link-id = 'class_go_fish_1_1_form1';
+        };
+        node-child = {
+          child-id = '12';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'class_go_fish_1_1_form1';
+  cp-name   = 'GoFish::Form1';
+  cp-ref     = {
+    ref-type = base;
+    ref-id   = 'class_system_1_1_windows_1_1_forms_1_1_form';
+    ref-prot = public;
+    ref-virt = non-virtual;
+  };
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a0ce9b0237d4a230cba08fbfa74bb2b02';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'Form1';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '47';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a31dd106b83b5bf65028eac54f8164368';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'startBtn_Click';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::Object^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'sender';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::EventArgs^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'e';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '351';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceto = {
+        sec-mem-ref-id = '_form1_8h_1a9e05ca6eb20a4dbd5eedd1ed0540de91';
+        sec-mem-ref-line = '41';
+        sec-mem-ref-name = 'GoFish::computerCount';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = '_player_8h_1afb8208ba11e1635d2c0bb0acd10d0a50';
+        sec-mem-ref-line = '9';
+        sec-mem-ref-name = 'Player::hand';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = '_player_8h_1a259a75b0991b8130c807051225a2e4d5';
+        sec-mem-ref-line = '11';
+        sec-mem-ref-name = 'Player::guess';
+    };
+      sec-mem-referenceto = {
+        sec-mem-ref-id = '_form1_8h_1a41e38e4a4b8b6d1e6ed17f2c44a158a3';
+        sec-mem-ref-line = '959';
+        sec-mem-ref-name = 'makeDeck';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'protected-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1adda5dd1ba5fd7558abe3c0cb2f63611b';
+      sec-mem-virt = normal;
+      sec-mem-prot = protected;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '~Form1';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '59';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+<summary>
+Clean up any resources being used.
+</summary>
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+  
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'private-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a011522e4388841db6d3096fa3480d5bb';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'InitializeComponent';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '95';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+<summary>
+Required method for Designer support - do not modify
+the contents of this method with the code editor.
+</summary>
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+  
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a5b75485956cc67662f81abbd9e0124f2';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'exitBtn_Click';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::Object^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'sender';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::EventArgs^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'e';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '346';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1abc0f43a51dabceceddefb50b55ec3ecd';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'poolPic_Click';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::Object^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'sender';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::EventArgs^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'e';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '438';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1aa0fbdb02b1dc88734e6a14ba6664e8f9';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'submitBtn_Click';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::Object^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'sender';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::EventArgs^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'e';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '518';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a0b087f3faf59b8c59f91ac3733c359fb';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'computerAction';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '675';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a1b0c541704f24e840cd2b8b20ff3a0d9';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'updateHand';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '853';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1ae02b4a24579f1f296f7cef4384c2a739';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'updateScore';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '872';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1af77d7b2408b3d2bec6de905dc14f403c';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'findSet';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Player &
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'x';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '888';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a4cedd9f968e31aa1efadeb6b71a24dbb';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'winner';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '911';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1adc065149d6f6b643c549dfa9f4cb9d86';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'compPairsLbl_Click';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::Object^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'sender';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+System::EventArgs^
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'e';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '956';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'private-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a97a9b11367a8019e24e9a25a672d2a54';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Button
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'startBtn';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '66';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1aec581103730577c29a1aab022fcfb701';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Button
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'exitBtn';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '67';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a7dd0ac8fc564eb02e9c895a906d67591';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::PictureBox
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'poolPic';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '69';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a8f975a6edd1d04f8585dea6ac738c910';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Label
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'poolLbl';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '70';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a3455bf9d43423ba87d52191c898fbdc4';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Label
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'youLbl';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '71';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1aafb50c64e5e81ef2a15d6b30ef206e6e';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Label
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'compPairsLbl';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '72';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1abf77b79fa33b543d17eee4dca0a3eb63';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Label
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'youPairsLbl';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '73';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a6892c463acdcf93dfeaf97b40a10c2f0';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Button
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'submitBtn';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '74';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a4fb1566b8c24eb936115330b71c9de97';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::TextBox
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'guessBox';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '75';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a7629ff1fcd078236e2d3090d4d8dde61';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Label
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'messageLbl';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '76';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a3b3599db1e37523a83972cda0fb341f3';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Label
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'bannerLbl';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '77';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a235fb3fed810f9d95766883aafbb83b9';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::PictureBox
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'pictureBox1';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '78';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a30d673705f60e9b64e20a51d86f09e46';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Label
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'personCountLbl';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '79';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1a6f9c50afead3d683a8ea1605d9b06386';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::Windows::Forms::Label
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'computerCountLbl';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '80';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_go_fish_1_1_form1_1ac3a2a4d4e53bb6fecf53bad15ec09b69';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+System::ComponentModel::Container
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'components';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      sec-mem-desc-line = '88';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+<summary>
+Required designer variable.
+</summary>
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+  
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+  cp-fileline  = '44';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-inheritancegraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 16;
+        node-label = 'System::Windows::Forms::Form';
+      }; /* node */
+      node = {
+        node-id    = 15;
+        node-label = 'GoFish::Form1';
+        node-link = {
+          node-link-id = 'class_go_fish_1_1_form1';
+        };
+        node-child = {
+          child-id = '16';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 18;
+        node-label = 'System::Windows::Forms::Form';
+      }; /* node */
+      node = {
+        node-id    = 17;
+        node-label = 'GoFish::Form1';
+        node-link = {
+          node-link-id = 'class_go_fish_1_1_form1';
+        };
+        node-child = {
+          child-id = '18';
+          relation = public-inheritance;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+struct = {
+  cp-id     = 'struct_tree_1_1_node';
+  cp-name   = 'Tree::Node';
+  cp-section = {
+    sec-kind = 'public-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'struct_tree_1_1_node_1a5031f0521d2105b27505e82fb26e26a1';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'data';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '9';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'struct_tree_1_1_node_1abdcc031b8e1e631f60c17d1f535f2382';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'height';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '10';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'struct_tree_1_1_node_1a70e93dec81431418dda094aea7ac1f94';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'left';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '11';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'struct_tree_1_1_node_1a2e0d01870098482601aaf8b726f00a79';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'right';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '12';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+  cp-fileline  = '8';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-collaborationgraph = <<_EnD_oF_dEf_TeXt_
+      node = {
+        node-id    = 20;
+        node-label = 'Tree::Node';
+        node-child = {
+          child-id = '20';
+          relation = usage;
+          edgelabel = <<_EnD_oF_dEf_TeXt_
+right
+left
+_EnD_oF_dEf_TeXt_;
+        }; /* node-child */
+      }; /* node */
+
+_EnD_oF_dEf_TeXt_;
+}; /* struct */
+class = {
+  cp-id     = 'class_player';
+  cp-name   = 'Player';
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_player_1affe0cc3cb714f6deb4e62f0c0d3f1fd8';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'Player';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Player.h';
+      sec-mem-desc-line = '12';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_player_1a81b8e12b8f9b1df886bfb5cf4e935f69';
+      sec-mem-virt = virtual;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+virtual
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '~Player';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Player.h';
+      sec-mem-desc-line = '14';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'public-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_player_1afb8208ba11e1635d2c0bb0acd10d0a50';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+deque< card >
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'hand';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Player.h';
+      sec-mem-desc-line = '9';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = '_form1_8h_1a31dd106b83b5bf65028eac54f8164368';
+        sec-mem-ref-line = '351';
+        sec-mem-ref-name = 'GoFish::Form1::startBtn_Click';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = '_form1_8h_1af60ac880dcd9513715ec22cbc66ea4f8';
+        sec-mem-ref-line = '1016';
+        sec-mem-ref-name = 'removeCards';
+    };
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_player_1a259a75b0991b8130c807051225a2e4d5';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+vector< int >
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'guess';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Player.h';
+      sec-mem-desc-line = '11';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-referenceby = {
+        sec-mem-ref-id = '_form1_8h_1a31dd106b83b5bf65028eac54f8164368';
+        sec-mem-ref-line = '351';
+        sec-mem-ref-name = 'GoFish::Form1::startBtn_Click';
+    };
+      sec-mem-referenceby = {
+        sec-mem-ref-id = '_form1_8h_1af60ac880dcd9513715ec22cbc66ea4f8';
+        sec-mem-ref-line = '1016';
+        sec-mem-ref-name = 'removeCards';
+    };
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Player.h';
+  cp-fileline  = '6';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+class = {
+  cp-id     = 'class_tree';
+  cp-name   = 'Tree';
+  cp-section = {
+    sec-kind = 'public-func';
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1ad376a7c639d857312f5de2ef47482f68';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'Tree';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '18';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1abdc38545cf3f588725b5d8b8075b3866';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = '~Tree';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '23';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a43954affd6d8518535f2b6629731ea8b';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'freeNode';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'leaf';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '28';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a07a121897ad236658b603c357ec12c77';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'insertLeaf';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '38';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a0805f98d26d5a34be85805fe9ce18d57';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'insertLeaf';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'n';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '45';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1aa75485c18c4cdf0c0a348a8228e64921';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+vector< int >
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'high';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'c';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '83';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a833b542fb707b6603e078aad2d376f5b';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'createLeaf';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '104';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a5e2f213a7e02174cdccf123086d03e7a';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'height';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'n';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '114';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a652571c872911cb6a68105990fa4c961';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'balanceLeft';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'n';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '118';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1af085585fe258878c2f368726bb49aa8a';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'balanceRight';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'n';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '128';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a8ce0f0badbd02a7519af521babeaad79';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'rotateWithLeftChild';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'k2';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '139';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1ae682685590072cc5d524f76ce033074a';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'rotateWithRightChild';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'k1';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '149';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a76c89a5b3b447e678e4af337293f4f37';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'doubleWithLeftChild';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'k3';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '159';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1adf9c68df927428232ab36eda2159bc12';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'doubleWithRightChild';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'k1';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '165';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1ac3942e5671a440c14e5a943ee02e4a37';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+vector< int >
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'preOrder';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'n';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '171';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1ad9608cd7fc6a0b5fb31cb8ff45bb94f7';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+vector< int >
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'postOrder';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'n';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '183';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1af45cff4eb24b199e5f673ba1b66f6b1d';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+vector< int >
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'inOrder';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'n';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '195';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1ae6a71f38bd0da970f3b2a829c64766c0';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'search';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'r';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '207';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a1324b000210f36ff874f2652d1192bc8';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'search';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '227';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a2e2553e5a611ce8f614cd25dc65cd259';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'removeNode';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '232';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a9e26c5fd17a0746d750f11da85c7ec50';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'removeNodep';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'v';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'parent';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '236';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a8106d88f90d87f9ed11a450279aabcf6';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'removeRootMatch';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '275';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a341e643fa8b144d9f1313d47fa67eba0';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'removeMatch';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'parent';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'match';
+      }; /*        sec-mem-param--param */
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'left';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '316';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'function';
+      sec-mem-id   = 'class_tree_1a678d87db7de9e9476744e077e0e9c329';
+      sec-mem-virt = normal;
+      sec-mem-prot = public;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'findsmallestp';
+      sec-mem-param = {
+        sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'ptr';
+      }; /*        sec-mem-param--param */
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '360';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-section = {
+    sec-kind = 'private-attrib';
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_tree_1ad8e46ce0aead5778cbdd784d1e370d5f';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'root';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '14';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+    sec-member = {
+      sec-mem-kind = 'variable';
+      sec-mem-id   = 'class_tree_1ab0b871fce82d028068d33ea3c874e35c';
+      sec-mem-virt = normal;
+      sec-mem-prot = private;
+      sec-mem-type = <<_EnD_oF_dEf_TeXt_
+Node *
+_EnD_oF_dEf_TeXt_;
+      sec-mem-name = 'worker';
+      sec-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+      sec-mem-desc-line = '15';
+      sec-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      sec-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* sec-member */
+  }; /* cp-section */
+  cp-filename  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+  cp-fileline  = '5';
+  cp-briefdesc = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  cp-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* class */
+file = {
+  file-id   = '_assembly_info_8cpp';
+  file-name = 'AssemblyInfo.cpp';
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/AssemblyInfo.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'card_8h';
+  file-name = 'card.h';
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/card.h';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_form1_8h';
+  file-name = 'Form1.h';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_form1_8h_1a41e38e4a4b8b6d1e6ed17f2c44a158a3';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+map< string, int >
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'makeDeck';
+      func-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      func-mem-desc-line = '13';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceby = {
+        func-mem-ref-id = '_form1_8h_1a31dd106b83b5bf65028eac54f8164368';
+        func-mem-ref-line = '351';
+        func-mem-ref-name = 'GoFish::Form1::startBtn_Click';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_form1_8h_1aa395b22629e49d1ac5fa5a428dd443d1';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'computerAction';
+      func-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      func-mem-desc-line = '14';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_form1_8h_1af1136cb0c690066404d455bed14564d1';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'updateHand';
+      func-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      func-mem-desc-line = '15';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceby = {
+        func-mem-ref-id = '_form1_8h_1a31dd106b83b5bf65028eac54f8164368';
+        func-mem-ref-line = '351';
+        func-mem-ref-name = 'GoFish::Form1::startBtn_Click';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_form1_8h_1a51ae6a9f51032bbb696c44555f4fcf44';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'updateScore';
+      func-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      func-mem-desc-line = '16';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceby = {
+        func-mem-ref-id = '_form1_8h_1a31dd106b83b5bf65028eac54f8164368';
+        func-mem-ref-line = '351';
+        func-mem-ref-name = 'GoFish::Form1::startBtn_Click';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_form1_8h_1a73793f995211d82cca341e615d320c9f';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'findSet';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Player &
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      func-mem-desc-line = '17';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceby = {
+        func-mem-ref-id = '_form1_8h_1a31dd106b83b5bf65028eac54f8164368';
+        func-mem-ref-line = '351';
+        func-mem-ref-name = 'GoFish::Form1::startBtn_Click';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_form1_8h_1a23259daea96b5afbc49286e333e618b4';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'winner';
+      func-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      func-mem-desc-line = '18';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_form1_8h_1af60ac880dcd9513715ec22cbc66ea4f8';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+void
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'removeCards';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+Player &
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'x';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'v';
+      }; /*        func-mem-param--param */
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+string
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'g';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = '_player_8h_1afb8208ba11e1635d2c0bb0acd10d0a50';
+        func-mem-ref-line = '9';
+        func-mem-ref-name = 'Player::hand';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = '_player_8h_1a259a75b0991b8130c807051225a2e4d5';
+        func-mem-ref-line = '11';
+        func-mem-ref-name = 'Player::guess';
+    };
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1a0516ae63daeafe7d734fd0e380a5cd24';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+vector< int >
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'set';
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '33';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+Summary for Form1
+</summary>  
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1aac69982a27bedb89f2ec4a108be9e7c1';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+deque< card >
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'pool';
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '34';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1a9fdd5a69166f90eee7f9717e376ea9bb';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+Player
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'computer';
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '35';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1ad4928743b77010f80388ae5f5495bb1b';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+Player
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'person';
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '36';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1a5ef343351958e4a4c45cfa2d0aa895b5';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'wrong';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+=true
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '37';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1a76b216755d7556d9ee96ca7ae0fa620d';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'timeToDraw';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+=false
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '38';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1a1e5e3f29ab64f86a067ee143e1ca2996';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'computerTurn';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+=false
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '39';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1af285f106abe3d068160690d582c4ec70';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+bool
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'timeToSubmit';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+=false
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '40';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1a678c54ee6f4ee2d5eb6ddc8922c1f38d';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'personCount';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+=0
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '41';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespace_go_fish_1a9e05ca6eb20a4dbd5eedd1ed0540de91';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'computerCount';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+=0
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+      var-mem-desc-line = '41';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referenceby = {
+        var-mem-ref-id = '_form1_8h_1a31dd106b83b5bf65028eac54f8164368';
+        var-mem-ref-line = '351';
+        var-mem-ref-name = 'GoFish::Form1::startBtn_Click';
+    };
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Form1.h';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_go_01_fish_8cpp';
+  file-name = 'Go Fish.cpp';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = '_go_01_fish_8cpp_1ac7eb149011d4000560640a5ad21683fe';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+int
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'main';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+array< System::String^>^
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-declname = 'args';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Go Fish.cpp';
+      func-mem-desc-line = '9';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Go Fish.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_player_8h';
+  file-name = 'Player.h';
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Player.h';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'resource_8h';
+  file-name = 'resource.h';
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/resource.h';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'stdafx_8cpp';
+  file-name = 'stdafx.cpp';
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/stdafx.cpp';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'stdafx_8h';
+  file-name = 'stdafx.h';
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/stdafx.h';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_tree_8h';
+  file-name = 'Tree.h';
+  file-full-name  = 'C:/Users/Tay/Desktop/TN-2460701/RCC/CIS-17C/Go Fish - Nesby, Taylor - Final Project - 48596/Go Fish/Go Fish/Tree.h';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */

@@ -1,0 +1,347 @@
+\hypertarget{class_tree}{\section{Tree Class Reference}
+\label{class_tree}\index{Tree@{Tree}}
+}
+
+
+{\ttfamily \#include $<$Tree.\+h$>$}
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_tree_ad376a7c639d857312f5de2ef47482f68}{Tree} ()
+\item 
+\hyperlink{class_tree_abdc38545cf3f588725b5d8b8075b3866}{$\sim$\+Tree} ()
+\item 
+void \hyperlink{class_tree_a43954affd6d8518535f2b6629731ea8b}{free\+Node} (Node $\ast$leaf)
+\item 
+void \hyperlink{class_tree_a07a121897ad236658b603c357ec12c77}{insert\+Leaf} (int v)
+\item 
+void \hyperlink{class_tree_a0805f98d26d5a34be85805fe9ce18d57}{insert\+Leaf} (Node $\ast$n, int v)
+\item 
+vector$<$ int $>$ \hyperlink{class_tree_aa75485c18c4cdf0c0a348a8228e64921}{high} (int c)
+\item 
+Node $\ast$ \hyperlink{class_tree_a833b542fb707b6603e078aad2d376f5b}{create\+Leaf} (int v)
+\item 
+int \hyperlink{class_tree_a5e2f213a7e02174cdccf123086d03e7a}{height} (Node $\ast$n)
+\item 
+void \hyperlink{class_tree_a652571c872911cb6a68105990fa4c961}{balance\+Left} (Node $\ast$n, int v)
+\item 
+void \hyperlink{class_tree_af085585fe258878c2f368726bb49aa8a}{balance\+Right} (Node $\ast$n, int v)
+\item 
+Node $\ast$ \hyperlink{class_tree_a8ce0f0badbd02a7519af521babeaad79}{rotate\+With\+Left\+Child} (Node $\ast$k2)
+\item 
+Node $\ast$ \hyperlink{class_tree_ae682685590072cc5d524f76ce033074a}{rotate\+With\+Right\+Child} (Node $\ast$k1)
+\item 
+Node $\ast$ \hyperlink{class_tree_a76c89a5b3b447e678e4af337293f4f37}{double\+With\+Left\+Child} (Node $\ast$k3)
+\item 
+Node $\ast$ \hyperlink{class_tree_adf9c68df927428232ab36eda2159bc12}{double\+With\+Right\+Child} (Node $\ast$k1)
+\item 
+vector$<$ int $>$ \hyperlink{class_tree_ac3942e5671a440c14e5a943ee02e4a37}{pre\+Order} (Node $\ast$n)
+\item 
+vector$<$ int $>$ \hyperlink{class_tree_ad9608cd7fc6a0b5fb31cb8ff45bb94f7}{post\+Order} (Node $\ast$n)
+\item 
+vector$<$ int $>$ \hyperlink{class_tree_af45cff4eb24b199e5f673ba1b66f6b1d}{in\+Order} (Node $\ast$n)
+\item 
+bool \hyperlink{class_tree_ae6a71f38bd0da970f3b2a829c64766c0}{search} (Node $\ast$r, int v)
+\item 
+bool \hyperlink{class_tree_a1324b000210f36ff874f2652d1192bc8}{search} (int v)
+\item 
+void \hyperlink{class_tree_a2e2553e5a611ce8f614cd25dc65cd259}{remove\+Node} (int v)
+\item 
+void \hyperlink{class_tree_a9e26c5fd17a0746d750f11da85c7ec50}{remove\+Nodep} (int v, Node $\ast$parent)
+\item 
+void \hyperlink{class_tree_a8106d88f90d87f9ed11a450279aabcf6}{remove\+Root\+Match} ()
+\item 
+void \hyperlink{class_tree_a341e643fa8b144d9f1313d47fa67eba0}{remove\+Match} (Node $\ast$parent, Node $\ast$match, bool left)
+\item 
+int \hyperlink{class_tree_a678d87db7de9e9476744e077e0e9c329}{findsmallestp} (Node $\ast$ptr)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+
+
+Definition at line 4 of file Tree.\+h.
+
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_tree_ad376a7c639d857312f5de2ef47482f68}{\index{Tree@{Tree}!Tree@{Tree}}
+\index{Tree@{Tree}!Tree@{Tree}}
+\subsubsection[{Tree}]{\setlength{\rightskip}{0pt plus 5cm}Tree\+::\+Tree (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_ad376a7c639d857312f5de2ef47482f68}
+
+
+Definition at line 18 of file Tree.\+h.
+
+\hypertarget{class_tree_abdc38545cf3f588725b5d8b8075b3866}{\index{Tree@{Tree}!````~Tree@{$\sim$\+Tree}}
+\index{````~Tree@{$\sim$\+Tree}!Tree@{Tree}}
+\subsubsection[{$\sim$\+Tree}]{\setlength{\rightskip}{0pt plus 5cm}Tree\+::$\sim$\+Tree (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_abdc38545cf3f588725b5d8b8075b3866}
+
+
+Definition at line 23 of file Tree.\+h.
+
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_tree_a652571c872911cb6a68105990fa4c961}{\index{Tree@{Tree}!balance\+Left@{balance\+Left}}
+\index{balance\+Left@{balance\+Left}!Tree@{Tree}}
+\subsubsection[{balance\+Left}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::balance\+Left (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{n, }
+\item[{int}]{v}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a652571c872911cb6a68105990fa4c961}
+
+
+Definition at line 118 of file Tree.\+h.
+
+\hypertarget{class_tree_af085585fe258878c2f368726bb49aa8a}{\index{Tree@{Tree}!balance\+Right@{balance\+Right}}
+\index{balance\+Right@{balance\+Right}!Tree@{Tree}}
+\subsubsection[{balance\+Right}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::balance\+Right (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{n, }
+\item[{int}]{v}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_af085585fe258878c2f368726bb49aa8a}
+
+
+Definition at line 128 of file Tree.\+h.
+
+\hypertarget{class_tree_a833b542fb707b6603e078aad2d376f5b}{\index{Tree@{Tree}!create\+Leaf@{create\+Leaf}}
+\index{create\+Leaf@{create\+Leaf}!Tree@{Tree}}
+\subsubsection[{create\+Leaf}]{\setlength{\rightskip}{0pt plus 5cm}Node$\ast$ Tree\+::create\+Leaf (
+\begin{DoxyParamCaption}
+\item[{int}]{v}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a833b542fb707b6603e078aad2d376f5b}
+
+
+Definition at line 104 of file Tree.\+h.
+
+\hypertarget{class_tree_a76c89a5b3b447e678e4af337293f4f37}{\index{Tree@{Tree}!double\+With\+Left\+Child@{double\+With\+Left\+Child}}
+\index{double\+With\+Left\+Child@{double\+With\+Left\+Child}!Tree@{Tree}}
+\subsubsection[{double\+With\+Left\+Child}]{\setlength{\rightskip}{0pt plus 5cm}Node$\ast$ Tree\+::double\+With\+Left\+Child (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{k3}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a76c89a5b3b447e678e4af337293f4f37}
+
+
+Definition at line 159 of file Tree.\+h.
+
+\hypertarget{class_tree_adf9c68df927428232ab36eda2159bc12}{\index{Tree@{Tree}!double\+With\+Right\+Child@{double\+With\+Right\+Child}}
+\index{double\+With\+Right\+Child@{double\+With\+Right\+Child}!Tree@{Tree}}
+\subsubsection[{double\+With\+Right\+Child}]{\setlength{\rightskip}{0pt plus 5cm}Node$\ast$ Tree\+::double\+With\+Right\+Child (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{k1}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_adf9c68df927428232ab36eda2159bc12}
+
+
+Definition at line 165 of file Tree.\+h.
+
+\hypertarget{class_tree_a678d87db7de9e9476744e077e0e9c329}{\index{Tree@{Tree}!findsmallestp@{findsmallestp}}
+\index{findsmallestp@{findsmallestp}!Tree@{Tree}}
+\subsubsection[{findsmallestp}]{\setlength{\rightskip}{0pt plus 5cm}int Tree\+::findsmallestp (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{ptr}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a678d87db7de9e9476744e077e0e9c329}
+
+
+Definition at line 360 of file Tree.\+h.
+
+\hypertarget{class_tree_a43954affd6d8518535f2b6629731ea8b}{\index{Tree@{Tree}!free\+Node@{free\+Node}}
+\index{free\+Node@{free\+Node}!Tree@{Tree}}
+\subsubsection[{free\+Node}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::free\+Node (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{leaf}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a43954affd6d8518535f2b6629731ea8b}
+
+
+Definition at line 28 of file Tree.\+h.
+
+\hypertarget{class_tree_a5e2f213a7e02174cdccf123086d03e7a}{\index{Tree@{Tree}!height@{height}}
+\index{height@{height}!Tree@{Tree}}
+\subsubsection[{height}]{\setlength{\rightskip}{0pt plus 5cm}int Tree\+::height (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{n}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a5e2f213a7e02174cdccf123086d03e7a}
+
+
+Definition at line 114 of file Tree.\+h.
+
+\hypertarget{class_tree_aa75485c18c4cdf0c0a348a8228e64921}{\index{Tree@{Tree}!high@{high}}
+\index{high@{high}!Tree@{Tree}}
+\subsubsection[{high}]{\setlength{\rightskip}{0pt plus 5cm}vector$<$int$>$ Tree\+::high (
+\begin{DoxyParamCaption}
+\item[{int}]{c}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_aa75485c18c4cdf0c0a348a8228e64921}
+
+
+Definition at line 83 of file Tree.\+h.
+
+\hypertarget{class_tree_af45cff4eb24b199e5f673ba1b66f6b1d}{\index{Tree@{Tree}!in\+Order@{in\+Order}}
+\index{in\+Order@{in\+Order}!Tree@{Tree}}
+\subsubsection[{in\+Order}]{\setlength{\rightskip}{0pt plus 5cm}vector$<$int$>$ Tree\+::in\+Order (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{n}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_af45cff4eb24b199e5f673ba1b66f6b1d}
+
+
+Definition at line 195 of file Tree.\+h.
+
+\hypertarget{class_tree_a07a121897ad236658b603c357ec12c77}{\index{Tree@{Tree}!insert\+Leaf@{insert\+Leaf}}
+\index{insert\+Leaf@{insert\+Leaf}!Tree@{Tree}}
+\subsubsection[{insert\+Leaf}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::insert\+Leaf (
+\begin{DoxyParamCaption}
+\item[{int}]{v}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a07a121897ad236658b603c357ec12c77}
+
+
+Definition at line 38 of file Tree.\+h.
+
+\hypertarget{class_tree_a0805f98d26d5a34be85805fe9ce18d57}{\index{Tree@{Tree}!insert\+Leaf@{insert\+Leaf}}
+\index{insert\+Leaf@{insert\+Leaf}!Tree@{Tree}}
+\subsubsection[{insert\+Leaf}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::insert\+Leaf (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{n, }
+\item[{int}]{v}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a0805f98d26d5a34be85805fe9ce18d57}
+
+
+Definition at line 45 of file Tree.\+h.
+
+\hypertarget{class_tree_ad9608cd7fc6a0b5fb31cb8ff45bb94f7}{\index{Tree@{Tree}!post\+Order@{post\+Order}}
+\index{post\+Order@{post\+Order}!Tree@{Tree}}
+\subsubsection[{post\+Order}]{\setlength{\rightskip}{0pt plus 5cm}vector$<$int$>$ Tree\+::post\+Order (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{n}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_ad9608cd7fc6a0b5fb31cb8ff45bb94f7}
+
+
+Definition at line 183 of file Tree.\+h.
+
+\hypertarget{class_tree_ac3942e5671a440c14e5a943ee02e4a37}{\index{Tree@{Tree}!pre\+Order@{pre\+Order}}
+\index{pre\+Order@{pre\+Order}!Tree@{Tree}}
+\subsubsection[{pre\+Order}]{\setlength{\rightskip}{0pt plus 5cm}vector$<$int$>$ Tree\+::pre\+Order (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{n}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_ac3942e5671a440c14e5a943ee02e4a37}
+
+
+Definition at line 171 of file Tree.\+h.
+
+\hypertarget{class_tree_a341e643fa8b144d9f1313d47fa67eba0}{\index{Tree@{Tree}!remove\+Match@{remove\+Match}}
+\index{remove\+Match@{remove\+Match}!Tree@{Tree}}
+\subsubsection[{remove\+Match}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::remove\+Match (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{parent, }
+\item[{Node $\ast$}]{match, }
+\item[{bool}]{left}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a341e643fa8b144d9f1313d47fa67eba0}
+
+
+Definition at line 316 of file Tree.\+h.
+
+\hypertarget{class_tree_a2e2553e5a611ce8f614cd25dc65cd259}{\index{Tree@{Tree}!remove\+Node@{remove\+Node}}
+\index{remove\+Node@{remove\+Node}!Tree@{Tree}}
+\subsubsection[{remove\+Node}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::remove\+Node (
+\begin{DoxyParamCaption}
+\item[{int}]{v}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a2e2553e5a611ce8f614cd25dc65cd259}
+
+
+Definition at line 232 of file Tree.\+h.
+
+\hypertarget{class_tree_a9e26c5fd17a0746d750f11da85c7ec50}{\index{Tree@{Tree}!remove\+Nodep@{remove\+Nodep}}
+\index{remove\+Nodep@{remove\+Nodep}!Tree@{Tree}}
+\subsubsection[{remove\+Nodep}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::remove\+Nodep (
+\begin{DoxyParamCaption}
+\item[{int}]{v, }
+\item[{Node $\ast$}]{parent}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a9e26c5fd17a0746d750f11da85c7ec50}
+
+
+Definition at line 236 of file Tree.\+h.
+
+\hypertarget{class_tree_a8106d88f90d87f9ed11a450279aabcf6}{\index{Tree@{Tree}!remove\+Root\+Match@{remove\+Root\+Match}}
+\index{remove\+Root\+Match@{remove\+Root\+Match}!Tree@{Tree}}
+\subsubsection[{remove\+Root\+Match}]{\setlength{\rightskip}{0pt plus 5cm}void Tree\+::remove\+Root\+Match (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a8106d88f90d87f9ed11a450279aabcf6}
+
+
+Definition at line 275 of file Tree.\+h.
+
+\hypertarget{class_tree_a8ce0f0badbd02a7519af521babeaad79}{\index{Tree@{Tree}!rotate\+With\+Left\+Child@{rotate\+With\+Left\+Child}}
+\index{rotate\+With\+Left\+Child@{rotate\+With\+Left\+Child}!Tree@{Tree}}
+\subsubsection[{rotate\+With\+Left\+Child}]{\setlength{\rightskip}{0pt plus 5cm}Node$\ast$ Tree\+::rotate\+With\+Left\+Child (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{k2}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a8ce0f0badbd02a7519af521babeaad79}
+
+
+Definition at line 139 of file Tree.\+h.
+
+\hypertarget{class_tree_ae682685590072cc5d524f76ce033074a}{\index{Tree@{Tree}!rotate\+With\+Right\+Child@{rotate\+With\+Right\+Child}}
+\index{rotate\+With\+Right\+Child@{rotate\+With\+Right\+Child}!Tree@{Tree}}
+\subsubsection[{rotate\+With\+Right\+Child}]{\setlength{\rightskip}{0pt plus 5cm}Node$\ast$ Tree\+::rotate\+With\+Right\+Child (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{k1}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_ae682685590072cc5d524f76ce033074a}
+
+
+Definition at line 149 of file Tree.\+h.
+
+\hypertarget{class_tree_ae6a71f38bd0da970f3b2a829c64766c0}{\index{Tree@{Tree}!search@{search}}
+\index{search@{search}!Tree@{Tree}}
+\subsubsection[{search}]{\setlength{\rightskip}{0pt plus 5cm}bool Tree\+::search (
+\begin{DoxyParamCaption}
+\item[{Node $\ast$}]{r, }
+\item[{int}]{v}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_ae6a71f38bd0da970f3b2a829c64766c0}
+
+
+Definition at line 207 of file Tree.\+h.
+
+\hypertarget{class_tree_a1324b000210f36ff874f2652d1192bc8}{\index{Tree@{Tree}!search@{search}}
+\index{search@{search}!Tree@{Tree}}
+\subsubsection[{search}]{\setlength{\rightskip}{0pt plus 5cm}bool Tree\+::search (
+\begin{DoxyParamCaption}
+\item[{int}]{v}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_tree_a1324b000210f36ff874f2652d1192bc8}
+
+
+Definition at line 227 of file Tree.\+h.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Tay/\+Desktop/\+T\+N-\/2460701/\+R\+C\+C/\+C\+I\+S-\/17\+C/\+Go Fish -\/ Nesby, Taylor -\/ Final Project -\/ 48596/\+Go Fish/\+Go Fish/\hyperlink{_tree_8h}{Tree.\+h}\end{DoxyCompactItemize}

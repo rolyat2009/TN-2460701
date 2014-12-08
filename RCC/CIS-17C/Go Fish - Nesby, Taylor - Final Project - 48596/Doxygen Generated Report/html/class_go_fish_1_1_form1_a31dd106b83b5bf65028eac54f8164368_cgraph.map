@@ -1,0 +1,6 @@
+<map id="GoFish::Form1::startBtn_Click" name="GoFish::Form1::startBtn_Click">
+<area shape="rect" id="node2" href="$_form1_8h.html#a51ae6a9f51032bbb696c44555f4fcf44" title="updateScore" alt="" coords="216,5,311,32"/>
+<area shape="rect" id="node3" href="$_form1_8h.html#a41e38e4a4b8b6d1e6ed17f2c44a158a3" title="makeDeck" alt="" coords="221,56,305,83"/>
+<area shape="rect" id="node4" href="$_form1_8h.html#af1136cb0c690066404d455bed14564d1" title="updateHand" alt="" coords="218,107,309,133"/>
+<area shape="rect" id="node5" href="$_form1_8h.html#a73793f995211d82cca341e615d320c9f" title="findSet" alt="" coords="232,157,295,184"/>
+</map>

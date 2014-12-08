@@ -1,0 +1,182 @@
+\hypertarget{_form1_8h}{\section{C\+:/\+Users/\+Tay/\+Desktop/\+T\+N-\/2460701/\+R\+C\+C/\+C\+I\+S-\/17\+C/\+Go Fish -\/ Nesby, Taylor -\/ Final Project -\/ 48596/\+Go Fish/\+Go Fish/\+Form1.h File Reference}
+\label{_form1_8h}\index{C\+:/\+Users/\+Tay/\+Desktop/\+T\+N-\/2460701/\+R\+C\+C/\+C\+I\+S-\/17\+C/\+Go Fish -\/ Nesby, Taylor -\/ Final Project -\/ 48596/\+Go Fish/\+Go Fish/\+Form1.\+h@{C\+:/\+Users/\+Tay/\+Desktop/\+T\+N-\/2460701/\+R\+C\+C/\+C\+I\+S-\/17\+C/\+Go Fish -\/ Nesby, Taylor -\/ Final Project -\/ 48596/\+Go Fish/\+Go Fish/\+Form1.\+h}}
+}
+{\ttfamily \#include $<$algorithm$>$}\\*
+{\ttfamily \#include $<$cstdlib$>$}\\*
+{\ttfamily \#include $<$map$>$}\\*
+{\ttfamily \#include $<$sstream$>$}\\*
+{\ttfamily \#include $<$ctime$>$}\\*
+{\ttfamily \#include $<$string$>$}\\*
+{\ttfamily \#include \char`\"{}Player.\+h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}Tree.\+h\char`\"{}}\\*
+Include dependency graph for Form1.\+h\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{_form1_8h__incl}
+\end{center}
+\end{figure}
+This graph shows which files directly or indirectly include this file\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=228pt]{_form1_8h__dep__incl}
+\end{center}
+\end{figure}
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{class_go_fish_1_1_form1}{Go\+Fish\+::\+Form1}
+\end{DoxyCompactItemize}
+\subsection*{Namespaces}
+\begin{DoxyCompactItemize}
+\item 
+ \hyperlink{namespace_go_fish}{Go\+Fish}
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+map$<$ string, int $>$ \hyperlink{_form1_8h_a41e38e4a4b8b6d1e6ed17f2c44a158a3}{make\+Deck} ()
+\item 
+void \hyperlink{_form1_8h_aa395b22629e49d1ac5fa5a428dd443d1}{computer\+Action} ()
+\item 
+void \hyperlink{_form1_8h_af1136cb0c690066404d455bed14564d1}{update\+Hand} ()
+\item 
+void \hyperlink{_form1_8h_a51ae6a9f51032bbb696c44555f4fcf44}{update\+Score} ()
+\item 
+bool \hyperlink{_form1_8h_a73793f995211d82cca341e615d320c9f}{find\+Set} (\hyperlink{class_player}{Player} \&, int)
+\item 
+bool \hyperlink{_form1_8h_a23259daea96b5afbc49286e333e618b4}{winner} ()
+\item 
+void \hyperlink{_form1_8h_af60ac880dcd9513715ec22cbc66ea4f8}{remove\+Cards} (\hyperlink{class_player}{Player} \&x, int v, string g)
+\end{DoxyCompactItemize}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+vector$<$ int $>$ \hyperlink{namespace_go_fish_a0516ae63daeafe7d734fd0e380a5cd24}{Go\+Fish\+::set}
+\item 
+deque$<$ \hyperlink{classcard}{card} $>$ \hyperlink{namespace_go_fish_aac69982a27bedb89f2ec4a108be9e7c1}{Go\+Fish\+::pool}
+\item 
+\hyperlink{class_player}{Player} \hyperlink{namespace_go_fish_a9fdd5a69166f90eee7f9717e376ea9bb}{Go\+Fish\+::computer}
+\item 
+\hyperlink{class_player}{Player} \hyperlink{namespace_go_fish_ad4928743b77010f80388ae5f5495bb1b}{Go\+Fish\+::person}
+\item 
+bool \hyperlink{namespace_go_fish_a5ef343351958e4a4c45cfa2d0aa895b5}{Go\+Fish\+::wrong} =true
+\item 
+bool \hyperlink{namespace_go_fish_a76b216755d7556d9ee96ca7ae0fa620d}{Go\+Fish\+::time\+To\+Draw} =false
+\item 
+bool \hyperlink{namespace_go_fish_a1e5e3f29ab64f86a067ee143e1ca2996}{Go\+Fish\+::computer\+Turn} =false
+\item 
+bool \hyperlink{namespace_go_fish_af285f106abe3d068160690d582c4ec70}{Go\+Fish\+::time\+To\+Submit} =false
+\item 
+int \hyperlink{namespace_go_fish_a678c54ee6f4ee2d5eb6ddc8922c1f38d}{Go\+Fish\+::person\+Count} =0
+\item 
+int \hyperlink{namespace_go_fish_a9e05ca6eb20a4dbd5eedd1ed0540de91}{Go\+Fish\+::computer\+Count} =0
+\end{DoxyCompactItemize}
+
+
+\subsection{Function Documentation}
+\hypertarget{_form1_8h_aa395b22629e49d1ac5fa5a428dd443d1}{\index{Form1.\+h@{Form1.\+h}!computer\+Action@{computer\+Action}}
+\index{computer\+Action@{computer\+Action}!Form1.\+h@{Form1.\+h}}
+\subsubsection[{computer\+Action}]{\setlength{\rightskip}{0pt plus 5cm}void computer\+Action (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{_form1_8h_aa395b22629e49d1ac5fa5a428dd443d1}
+\hypertarget{_form1_8h_a73793f995211d82cca341e615d320c9f}{\index{Form1.\+h@{Form1.\+h}!find\+Set@{find\+Set}}
+\index{find\+Set@{find\+Set}!Form1.\+h@{Form1.\+h}}
+\subsubsection[{find\+Set}]{\setlength{\rightskip}{0pt plus 5cm}bool find\+Set (
+\begin{DoxyParamCaption}
+\item[{{\bf Player} \&}]{, }
+\item[{int}]{}
+\end{DoxyParamCaption}
+)}}\label{_form1_8h_a73793f995211d82cca341e615d320c9f}
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=285pt]{_form1_8h_a73793f995211d82cca341e615d320c9f_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{_form1_8h_a41e38e4a4b8b6d1e6ed17f2c44a158a3}{\index{Form1.\+h@{Form1.\+h}!make\+Deck@{make\+Deck}}
+\index{make\+Deck@{make\+Deck}!Form1.\+h@{Form1.\+h}}
+\subsubsection[{make\+Deck}]{\setlength{\rightskip}{0pt plus 5cm}map$<$ string, int $>$ make\+Deck (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{_form1_8h_a41e38e4a4b8b6d1e6ed17f2c44a158a3}
+
+
+Definition at line 959 of file Form1.\+h.
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=301pt]{_form1_8h_a41e38e4a4b8b6d1e6ed17f2c44a158a3_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{_form1_8h_af60ac880dcd9513715ec22cbc66ea4f8}{\index{Form1.\+h@{Form1.\+h}!remove\+Cards@{remove\+Cards}}
+\index{remove\+Cards@{remove\+Cards}!Form1.\+h@{Form1.\+h}}
+\subsubsection[{remove\+Cards}]{\setlength{\rightskip}{0pt plus 5cm}void remove\+Cards (
+\begin{DoxyParamCaption}
+\item[{{\bf Player} \&}]{x, }
+\item[{int}]{v, }
+\item[{string}]{g}
+\end{DoxyParamCaption}
+)}}\label{_form1_8h_af60ac880dcd9513715ec22cbc66ea4f8}
+
+
+Definition at line 1016 of file Form1.\+h.
+
+\hypertarget{_form1_8h_af1136cb0c690066404d455bed14564d1}{\index{Form1.\+h@{Form1.\+h}!update\+Hand@{update\+Hand}}
+\index{update\+Hand@{update\+Hand}!Form1.\+h@{Form1.\+h}}
+\subsubsection[{update\+Hand}]{\setlength{\rightskip}{0pt plus 5cm}void update\+Hand (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{_form1_8h_af1136cb0c690066404d455bed14564d1}
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{_form1_8h_af1136cb0c690066404d455bed14564d1_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{_form1_8h_a51ae6a9f51032bbb696c44555f4fcf44}{\index{Form1.\+h@{Form1.\+h}!update\+Score@{update\+Score}}
+\index{update\+Score@{update\+Score}!Form1.\+h@{Form1.\+h}}
+\subsubsection[{update\+Score}]{\setlength{\rightskip}{0pt plus 5cm}void update\+Score (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{_form1_8h_a51ae6a9f51032bbb696c44555f4fcf44}
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=309pt]{_form1_8h_a51ae6a9f51032bbb696c44555f4fcf44_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{_form1_8h_a23259daea96b5afbc49286e333e618b4}{\index{Form1.\+h@{Form1.\+h}!winner@{winner}}
+\index{winner@{winner}!Form1.\+h@{Form1.\+h}}
+\subsubsection[{winner}]{\setlength{\rightskip}{0pt plus 5cm}bool winner (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{_form1_8h_a23259daea96b5afbc49286e333e618b4}
